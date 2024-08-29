@@ -4,7 +4,7 @@
   "description": "Add Rate Limiting To Your GraphQL Resolvers 💂‍♀",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "module": "build/esm/index.js",
+  "module": "dist/esm/index.js",
   "repository": "https://github.com/teamplanes/graphql-rate-limit",
   "license": "MIT",
   "keywords": [],
